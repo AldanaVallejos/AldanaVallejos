@@ -12,41 +12,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=38B2AC&style=flat" alt="Visitas al perfil" />
-</p>
-
 ---
 
 ## 👩🏻‍💻 Sobre mí
-
-```ts
-const aldana = {
-  nombre: "Aldana Vallejos",
-  rol: "Full Stack Developer",
-  ubicacion: "Buenos Aires, Argentina 🇦🇷",
-  educacion: "Licenciatura en Sistemas — UNLa",
-  experiencia: "Desarrollo Web Full Stack",
-  enfoque: [
-    "Desarrollo de software",
-    "Resolución de problemas",
-    "Código mantenible",
-    "Aprendizaje continuo"
-  ],
-  stackPrincipal: [
-    "TypeScript",
-    "Node.js",
-    "React",
-    "Next.js",
-    "PostgreSQL"
-  ],
-  aprendiendoAhora: [
-    "Java",
-    "Ciberseguridad",
-    "AWS"
-  ]
-};
-```
 
 Me interesa la tecnología especialmente cuando puede utilizarse para **resolver problemas reales**. Me gusta entender cómo funcionan las cosas, aprender de otros desarrolladores y buscar soluciones que no solo funcionen, sino que también sean claras y mantenibles.
 
