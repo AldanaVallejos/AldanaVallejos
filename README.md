@@ -109,47 +109,7 @@ Estoy constantemente explorando nuevas áreas de tecnología y buscando seguir c
   </tr>
 </table>
 
-### También trabajo con
-
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, Express, Java
-* **Lenguajes:** TypeScript, JavaScript, Java, C
-* **Bases de datos:** PostgreSQL, SQLite
-* **ORM:** Prisma
-* **Testing:** Vitest, TDD
-* **Arquitectura:** Clean Architecture, separación por capas
-* **DevOps:** Docker, GitHub Actions
-* **Metodologías:** Scrum
-
-### También trabajo con
-
-* **Arquitectura:** Clean Architecture, separación por capas
-* **Testing:** Vitest, TDD
-* **APIs:** REST APIs
-* **ORM:** Prisma
-* **Bases de datos:** PostgreSQL, SQLite
-* **DevOps:** Docker, GitHub Actions
-* **Metodologías:** Scrum y trabajo colaborativo
-* **Herramientas:** VS Code, Postman, Figma
-
 ---
-
-## 💼 Experiencia
-
-<table>
-  <tr>
-    <td width="60" align="center">💻</td>
-    <td>
-      <b>Full Stack Developer</b><br/>
-      <i>ForIT Software Factory · 2025 — Actualidad</i><br/>
-      <sub>
-        Desarrollo de aplicaciones web Full Stack dentro de equipos ágiles.
-        Participación en el desarrollo de funcionalidades, corrección de errores,
-        testing, revisión de código y trabajo colaborativo con Git y GitHub.
-      </sub>
-    </td>
-  </tr>
-</table>
 
 Durante mi experiencia profesional trabajé principalmente con:
 
